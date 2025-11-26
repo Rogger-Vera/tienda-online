@@ -49,3 +49,7 @@ src/generated/
 #prisma/migrations
 
 # Temporales y Cache
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
